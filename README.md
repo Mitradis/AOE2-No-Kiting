@@ -9,4 +9,5 @@ etc.
 
 This tool need use with other tool for repack .cpn (company files) files [rge_campaign](https://github.com/withmorten/rge_campaign).  
 The solution is to change the parameter "ability-to-maintain-distance" which depends on the complexity of the game and is contained in the company files (which is what this program is for) as well as in the file gamedata_x1.drs in scripts.  
-To use need place this program with rge_campaign to CAMPAIGN folder and run. Make backup. File gamedata_x1.drs you can change self (need Turtle Pack, files 6002\6008\6029) or download and replace for classic Age of Empires II: The Conquerors.
+To use need place this program with rge_campaign to CAMPAIGN folder and run. Make backup. File gamedata_x1.drs you can change self (need Turtle Pack, files 6002\6008\6029) or download and replace for classic Age of Empires II: The Conquerors.  
+Don't pay attention to the title "Launcher". Just rework from template.
